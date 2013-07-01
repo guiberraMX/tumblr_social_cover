@@ -1,5 +1,12 @@
 /* @override http://localhost:8888/tumblr.com/dark_carton/styles.css */
 
+@font-face
+{
+   font-family: "tumb";
+   src: url("fonts/tumb.woff") format("woff"),
+        url("fonts/tumb.ttf") format("truetype"),
+}
+
 body {
 	background-image: url(http://static.tumblr.com/4cradrm/zRAknlgmt/body.jpg);
 	margin: 0px;
@@ -286,9 +293,9 @@ display: block;
 	left: 25px;
 	background-color: #335f9d;
 	border-radius: 5px;
-	top: 250px;
+	top: 300px;
 	width: 70px;
-	height: 50px;
+	height: 20px;
 	padding-top: 15px;
 
 
@@ -298,9 +305,9 @@ display: block;
 	left: 25px;
 	background-color: #335f9d;
 	border-radius: 5px;
-	top: 250px;
+	top: 300px;
 	width: 70px;
-	height: 50px;
+	height: 20px;
 	padding-top: 15px;
 	
 }
@@ -594,11 +601,13 @@ tweet button
 .twitter-share-button{
 	margin-left: 26px;
 	margin-top: 60px;
+
 }
 
 .fb-like{
 	margin-left: 25px;
-	margin-top: 60px;
+	margin-top: 10px;
+	width: 50%;
 
 }
 
