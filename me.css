@@ -271,13 +271,16 @@ input#keywords.text {
 .post .notes {
 	position: absolute;
 	
-	background-repeat: no-repeat;
 	color: rgba(20,20,20,0.9);
-	font-size: 1.5em;
+	font-size: 15px;
+	
 	
 	
 	text-shadow: 0px -1px 1px #000;
 	text-align: center;
+
+	
+
 }
 
 /*
@@ -291,31 +294,34 @@ display: block;
 
 .post.odd .notes {
 	left: 25px;
-	background-color: #335f9d;
+	background-color: #f2f5ff;
 	border-radius: 5px;
 	top: 300px;
 	width: 70px;
-	height: 20px;
-	padding-top: 15px;
+	height: 28px;
+	padding-top: 5px;
 
+	
 
 
 }
 .post.even .notes {
 	left: 25px;
-	background-color: #335f9d;
+	background-color: #f2f5ff;
 	border-radius: 5px;
 	top: 300px;
 	width: 70px;
-	height: 20px;
-	padding-top: 15px;
+	height: 28px;
+	padding-top: 5px;
 	
 }
+
+
 .post .reblog {
 	position: absolute;
 	height: 40px;
 	width: 540px;
-	background-image: url(http://static.tumblr.com/4cradrm/uUOknlgwn/reblog.png);
+	background-image: url();
 	background-repeat: no-repeat;
 	overflow: hidden;
 	bottom: 0px;
@@ -620,15 +626,18 @@ display:inline-block; text-indent:-9999px; overflow:hidden; width:70%px; height:
 .tumbbuton{
 
 	font-family: "tumb";
-	font-size: 0.8em;
+	font-size: 1.1em;
 	background-color: #E6E9F3;
-	border-radius: 3px;
-	width: 150%;
+	border-radius: 5px;
+	width: 100%;
+
+
 	
 
 }
 
 a.tumbbuton{
-	color: red;
-	padding: 5px 20px 5px 40px;
+	color: #365069;
+	padding: 1px 10px 1px 10px;
+
 }
