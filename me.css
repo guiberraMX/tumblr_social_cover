@@ -611,3 +611,17 @@ tweet button
 
 }
 
+/*
+
+display:inline-block; text-indent:-9999px; overflow:hidden; width:70%px; height: 100%; background: red; border-radius: 3px; font-family "tumb" color: "blue" "1em" ;
+
+*/
+
+.tumbbuton{
+
+	font-family: "tumb";
+	background-color: #E6E9F3;
+	border-radius: 5px;
+	width: 100%;
+
+}
