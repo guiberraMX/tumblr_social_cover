@@ -39,7 +39,7 @@ div.holder {
 	margin-right: 0px;
 	height: 200px;
 	width: 100%;
-	background: red;
+	background: #33f;
 	position: fixed;
 	z-index: 1;
 
@@ -596,4 +596,11 @@ tweet button
 	margin-top: 60px;
 }
 
+.fb-like{
+	margin-left: 25px;
+	margin-top: 60px;
 
+}
+.uiGridpluginConnectButtonLayoutRoot{
+	margin-left: 100px;
+}
