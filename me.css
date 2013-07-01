@@ -620,8 +620,13 @@ display:inline-block; text-indent:-9999px; overflow:hidden; width:70%px; height:
 .tumbbuton{
 
 	font-family: "tumb";
+	font-size: 0.5em;
 	background-color: #E6E9F3;
 	border-radius: 5px;
 	width: 100%;
 
+}
+
+a.tumbbuton{
+	color: red;
 }
