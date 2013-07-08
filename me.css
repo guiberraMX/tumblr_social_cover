@@ -97,11 +97,11 @@ div.holder {
 	left: 600px;
 	top: 130px;
 	z-index: 0;
-	letter-spacing:-3px;
+	letter-spacing:-4px;
 	width: 100%;
 	overflow: hidden;
 	font-family: "Nexa Light";
-	font-size: 70px;
+	font-size: 75px;
 	color: #fff;
 }
 #avatar {
