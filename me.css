@@ -7,6 +7,16 @@
         url("fonts/tumb.ttf") format("truetype"),
 }
 
+
+@font-face {
+	font-family: 'Conv_BryantPro-LightAlt';
+	src: url('fonts/BryantPro-LightAlt.eot');
+	src: local('☺'), url('fonts/BryantPro-LightAlt.woff') format('woff'), url('fonts/BryantPro-LightAlt.ttf') format('truetype'), url('fonts/BryantPro-LightAlt.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
 body {
 	background-image: url(http://static.tumblr.com/4cradrm/zRAknlgmt/body.jpg);
 	margin: 0px;
@@ -14,12 +24,13 @@ body {
 
 
 	
-	font: 1em "Lucida Grande", Lucida, Verdana, sans-serif;
+	font-family: "Carme", 3em;
 }
 a {
 	text-decoration: none;
 	color: #3392fc;
 	font-weight: bold;
+	font-family: "Carme";
 }
 
 a:hover {
@@ -46,14 +57,15 @@ div.holder {
 	margin-right: 0px;
 	height: 200px;
 	width: 100%;
-	background: #f1f;
+	background: url(https://dl.dropboxusercontent.com/u/120471624/pw_maze_black_%402X.png) repeat center;
 	position: fixed;
 	z-index: 1;
 
 	padding: 0px;
 	margin: 0px;
-}
 
+
+}
 
 #title {
 	position: absolute;
@@ -127,6 +139,7 @@ input#keywords.text {
 	color: #666;
 	text-shadow: 0px -1px 1px #000;
 	font-size: 14px;
+	font-family: "Carme";
 }
 
 #searchbox input.search {
@@ -178,10 +191,12 @@ input#keywords.text {
 	padding: 25px;
 	color: #666;
 	text-shadow: 0px -1px 1px #000;
+	font-family: "Carme";
 }
 #footer div.col2 {
 	display: block;
 	font-size: 12px;
+	font-family: "Carme";
 	line-height: 1.3em;
 	width: 430px;
 	float: left;
@@ -275,7 +290,7 @@ input#keywords.text {
 	font-size: 15px;
 	
 	
-	
+	font-family: "Carme";
 	text-shadow: 0px -1px 1px #000;
 	text-align: center;
 
@@ -333,6 +348,7 @@ display: block;
 	font-size: 12px;
 	color: #000;
 	text-shadow: #fd5c56 0 1px 1px;
+	font-family: "Carme";
 }
 
 h3.title {
@@ -344,7 +360,7 @@ h3.title {
 	padding-top: 25px;
 	color: #f4f4f4;
 	text-shadow: 0px -1px 1px #000;
-	font: 35px/1.1em Georgia, "Times New Roman", Times, serif;
+	font: 50px  "Conv_BryantPro-LightAlt";
 }
 
 #footer h3.title {
@@ -365,7 +381,8 @@ div.chat_line {
 	display: block;	
 	padding-bottom: 5px;
 	padding-top: 5px;	
-	text-shadow: 0px -1px 1px #000;		
+	text-shadow: 0px -1px 1px #000;	
+	font-family: "Carme";	
 }
 div.chat_line.odd {
 	color: #999;
@@ -404,7 +421,7 @@ div.photo {
 	color: #fff;
 	text-decoration: none;
 	text-shadow: 0px -1px 1px #000;
-	font: 30px "Courier New", Courier, mono;
+	font: 30px "Carme";
 }
 .postlink a:hover {
 	background-image: url(http://static.tumblr.com/4cradrm/I1Vknlgmb/blue_trans.png);
@@ -414,7 +431,7 @@ div.quote {
 	padding: 20px;
 	color: #999;
 	text-shadow: 0px -1px 1px #000;
-	font: 30px/1.3em Georgia, "Times New Roman", Times, serif;
+	font: 30px/1.3em Georgia, "Carme", Times, serif;
 }
 div.quote-source {
 	display: block;
@@ -424,6 +441,7 @@ div.quote-source {
 	color: #666;
 	text-shadow: 0px -1px 1px #000;
 	font-size: 13px;
+	font-family: "Carme";
 }
 div.caption {
 	display: block;
@@ -432,6 +450,7 @@ div.caption {
 	line-height: 1.3em;
 	color: #999;
 	text-shadow: 0px -1px 1px #000;
+	font-family: "Carme";
 }
 div.caption.audio_cap {
 	background-color: #111;
@@ -470,6 +489,7 @@ div.text {
 	line-height: 1.4em;
 	color: #999;
 	text-shadow: 0px -1px 1px #000;
+	font-family: "Carme";
 }
 
 ul.tags {
@@ -490,6 +510,7 @@ ul.tags li {
 	display: inline;
 	font-size: 0px;
 	padding-left: 3px;
+	font-family: "Carme";
 }
 
 div.real_notes {
@@ -505,7 +526,8 @@ ol.notes {
 	padding: 0;
 	display: block;
 	width: 500px;
-	font-size: 11px;	
+	font-size: 11px;
+	font-family: "Carme";	
 }
 ol.notes li {
 	display: block;
@@ -518,6 +540,7 @@ ol.notes li {
 	min-height: 22px;
 	text-shadow: 0px -1px 1px #000;	
 	color: #999;
+	font-family: "Carme";
 }
 
 ol.notes li blockquote {
@@ -525,13 +548,14 @@ ol.notes li blockquote {
 	padding: 0;
 	margin-top: 5px;
 	margin-left: 40px;
-	font-family: Georgia, "Times New Roman", Times, serif;
+	font-family: "Carme";
 	font-weight: normal;
 }
 ol.notes li blockquote a {
 	color: #777;
 	font-weight: normal;
 	font-size: 13px;
+	font-family: "Carme";  
 }
 ol.notes li blockquote a:hover {
 	color: #d33921;
