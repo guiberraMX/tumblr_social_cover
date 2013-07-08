@@ -89,10 +89,12 @@ div.holder {
 	left: 330px;
 	top: 150px;
 	z-index: 0;
-	font: 50px "miso" rgb (255,255,255);
+	
 	width: 100%;
 	overflow: hidden;
-
+	font-family: "miso";
+	font-size: 50px;
+	color: #fff;
 }
 #avatar {
 	margin: 5px;
