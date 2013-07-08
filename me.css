@@ -94,13 +94,13 @@ div.holder {
 	position: absolute;
 	padding-left: 0px;
 	margin-right: 0px;
-	left: 930px;
+	left: 600px;
 	top: 70px;
 	z-index: 0;
 	
 	width: 100%;
 	overflow: hidden;
-	font-family: "Nexa Bold";
+	font-family: "Nexa Light";
 	font-size: 70px;
 	color: #fff;
 }
