@@ -72,7 +72,7 @@ a {
 	color: #3392fc;
 	font-weight: bold;
 	font-family: "Carme";
-	font-size: 2em;
+	font-size: 0.5em;
 }
 
 a:hover {
@@ -248,9 +248,7 @@ input#keywords.text {
 	background-image: url(https://dl.dropboxusercontent.com/u/120471624/furley_bg.png);
 	background-repeat: repeat-x;
 }
-.footer_clear a{
-	font-size: 0.5 em;
-}
+
 /*POSTS*/
 .post {
 	display: block;
