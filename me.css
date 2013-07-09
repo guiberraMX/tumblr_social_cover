@@ -720,6 +720,8 @@ a.tumbbuton{
 /* li de enlaces personales bottom */ 
 
 #contacto{
+
+	display: inline-block;
 	
 }
 
