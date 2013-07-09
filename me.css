@@ -634,7 +634,7 @@ ol.notes li img {
 .post .open {
 	display: block;
 	position: absolute;
-	background-image: url(https://dl.dropboxusercontent.com/u/120471624/go2.png);
+	background-image: url(https://raw.github.com/guiberraMX/tumblr_social_cover/master/image/go2.png);
 	background-repeat: no-repeat;
 	top: -1px;
 	height: 60px;
@@ -644,7 +644,7 @@ ol.notes li img {
 .post .goto {
 	display: block;
 	position: absolute;
-	background-image: url(https://dl.dropboxusercontent.com/u/120471624/go2.png);
+	background-image: url(https://raw.github.com/guiberraMX/tumblr_social_cover/master/image/go2.png);
 	background-repeat: no-repeat;
 	top: -1px;
 	height: 60px;
