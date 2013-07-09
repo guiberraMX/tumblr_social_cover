@@ -216,10 +216,10 @@ input#keywords.text {
 
 }
 #footer {
-	display: block;
+	display: inline-block;
 	background-image: url(https://dl.dropboxusercontent.com/u/120471624/pw_maze_black_%402X.png);
 	background-repeat: repeat;
-	min-height: 200px;
+	min-height: 100px;
 }
 
 #buttons {
@@ -235,10 +235,7 @@ input#keywords.text {
 #following-avatars img:hover {
 	border: 2px solid #fd469f;
 }
-#footer{
-	
 
-} 
 
 .footer_clear {
 	display: block;
