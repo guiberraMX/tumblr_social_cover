@@ -133,6 +133,7 @@ div.holder {
 
 .avatar {
 	border-radius: 50%;
+	max-width: 80px;
 }
 
 
