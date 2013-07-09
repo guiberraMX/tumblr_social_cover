@@ -475,7 +475,7 @@ div.quote {
 	padding: 20px;
 	color: #999;
 	text-shadow: 0px -1px 1px #000;
-	font: 40px 'Intro';
+	font: 40px 'Bariol_Regular';
 }
 div.quote-source {
 	display: block;
@@ -484,8 +484,8 @@ div.quote-source {
 	font-style: italic;
 	color: #666;
 	text-shadow: 0px -1px 1px #000;
-	font-size: 13px;
-	font-family: "Carme";
+	font-size: 23px;
+	font-family: "Bariol_Regular";
 }
 div.caption {
 	display: block;
