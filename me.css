@@ -59,7 +59,7 @@
 }
 
 body {
-	background-image: url(http://static.tumblr.com/4cradrm/zRAknlgmt/body.jpg);
+	background-image: url(https://dl.dropboxusercontent.com/u/120471624/furley_bg.png);
 	margin: 0px;
 	padding: 0px;
 
@@ -99,7 +99,7 @@ div.holder {
 	margin-right: 0px;
 	height: 200px;
 	width: 100%;
-	background: url(https://dl.dropboxusercontent.com/u/120471624/pw_maze_black_%402X.png) repeat center;
+	background: url(https://dl.dropboxusercontent.com/u/120471624/foot.png) repeat center;
 	position: fixed;
 	z-index: 1;
 
@@ -216,7 +216,7 @@ input#keywords.text {
 }
 #footer {
 	display: block;
-	background-image: url(http://static.tumblr.com/4cradrm/D6mknlgp9/footer.jpg);
+	background-image: url(https://dl.dropboxusercontent.com/u/120471624/pw_maze_black_%402X.png);
 	background-repeat: repeat;
 	min-height: 200px;
 }
@@ -262,7 +262,7 @@ input#keywords.text {
 	height: 2px;
 	overflow: hidden;
 	clear: both;
-	background-image: url(http://static.tumblr.com/4cradrm/HqJknlgq8/footer_line.png);
+	background-image: url(https://dl.dropboxusercontent.com/u/120471624/furley_bg.png);
 	background-repeat: repeat-x;
 }
 /*POSTS*/
@@ -272,11 +272,16 @@ input#keywords.text {
 	margin: auto;
 	min-height: 65px;
 	position: relative;
-	background-image: url(http://static.tumblr.com/4cradrm/PVTknlgug/post_middle.jpg);
+	background: rgba(225,255,255,0.1);
 	background-repeat: repeat-y;
 	padding-top: 25px;
 	padding-bottom: 27px;
 	margin-top: 50px;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: rgba(173,173,175,0.2);
+	border-width: 1px;
+	box-shadow: -1px 2px 15px #cfd3d3;
 }
 .post .avatar {
 	display: block;
@@ -294,11 +299,11 @@ input#keywords.text {
 
 .post.odd .avatar {
 	left: -139px;
-	background-image: url(http://static.tumblr.com/4cradrm/837knlgji/avatar_left.jpg);
+	
 }
 .post.even .avatar {
 	right: -139px;
-	background-image: url(http://static.tumblr.com/4cradrm/ZcTknlgk7/avatar_right.jpg);
+	
 }
 .post.even .avatar img {
 	margin-left: 50px;
@@ -314,10 +319,10 @@ input#keywords.text {
 	background-repeat: no-repeat;
 }
 .post.odd .top {
-	background-image: url(http://static.tumblr.com/4cradrm/4wTknlgv0/post_top_left.jpg);
+	
 }
 .post.even .top {
-	background-image: url(http://static.tumblr.com/4cradrm/aY8knlgw1/post_top_right.jpg);
+	
 }
 .post .content {
 	position: relative;
@@ -329,7 +334,7 @@ input#keywords.text {
 	position: absolute;
 	left: 0;
 	bottom: 0;
-	background-image: url(http://static.tumblr.com/4cradrm/pZ2knlgtv/post_bottom.jpg);
+	
 	background-repeat: no-repeat;
 	display: block;
 	height: 27px;
@@ -361,7 +366,7 @@ display: block;
 
 .post.odd .notes {
 	left: 25px;
-	background-color: #f2f5ff;
+	background-color: #fff;
 	border-radius: 5px;
 	top: 300px;
 	width: 70px;
@@ -374,12 +379,15 @@ display: block;
 }
 .post.even .notes {
 	left: 25px;
-	background-color: #f2f5ff;
+	background-color: #fff;
 	border-radius: 5px;
+	border-color: #b2b;
+	border-width: 4px;
 	top: 300px;
 	width: 70px;
 	height: 28px;
 	padding-top: 5px;
+	margin-top:20px;
 	
 }
 
@@ -461,7 +469,7 @@ div.photo {
 	z-index: 0;
 }
 .postlink {
-	background-image: url(http://static.tumblr.com/4cradrm/lSwknlgr5/link.png);
+	background-image: url(https://dl.dropboxusercontent.com/u/120471624/lnkios7.png);
 	background-repeat: no-repeat;
 	background-position: left center;
 }
@@ -511,7 +519,7 @@ div.caption.audio_cap {
 div.caption.photoset_cap,
 div.caption.video_cap {
 	display: block;
-	background-image: url(http://static.tumblr.com/4cradrm/VOBknlgom/caption_extra.jpg);
+	background-image: url(https://dl.dropboxusercontent.com/u/120471624/lineup.png);
 	background-position: left top;
 	background-repeat: no-repeat;
 	padding-top: 85px;
@@ -526,7 +534,7 @@ div.caption.photo_cap {
 	position: absolute;
 	left: 0;
 	bottom: 0;
-	background-image: url(http://static.tumblr.com/4cradrm/zq7knlgl1/black_trans.png);
+	background-image: url(https://dl.dropboxusercontent.com/u/120471624/foot.png);
 	padding: 10px;
 	padding-bottom: 55px;
 	border-top: 1px solid #111;
@@ -552,7 +560,7 @@ ul.tags {
 	padding-left: 10px;
 	padding-right: 10px;
 	list-style: none;	
-	background-color: #161616;
+	background-color: rgba(255,255,255,0);
 	color: #444;
 	height: 12px;
 	padding-top: 3px;
@@ -626,7 +634,7 @@ ol.notes li img {
 .post .open {
 	display: block;
 	position: absolute;
-	background-image: url(http://static.tumblr.com/4cradrm/c6Aknlgsd/link_open.jpg);
+	background-image: url(https://dl.dropboxusercontent.com/u/120471624/go2.png);
 	background-repeat: no-repeat;
 	top: -1px;
 	height: 60px;
@@ -636,7 +644,7 @@ ol.notes li img {
 .post .goto {
 	display: block;
 	position: absolute;
-	background-image: url(http://static.tumblr.com/4cradrm/moFknlgrt/link_goto.jpg);
+	background-image: url(https://dl.dropboxusercontent.com/u/120471624/go2.png);
 	background-repeat: no-repeat;
 	top: -1px;
 	height: 60px;
@@ -675,6 +683,14 @@ ol.notes li img {
 	right: 0px;
 }
 
+.post.odd .avatar img{
+	margin: 0px;
+	border-radius: 50%;
+}
+.post.even .avatar img{
+	border-radius: 50%;
+	margin-left: 60px;
+}
 /*
 
 tweet button
