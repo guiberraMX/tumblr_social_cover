@@ -733,3 +733,23 @@ a.tumbbuton{
 	padding: 1px 10px 1px 10px;
 
 }
+
+/* li de enlaces personales bottom */ 
+
+#contacto{
+	display: inline-block;
+}
+
+#adn{
+	background-color: #fff;
+}
+#5oo{
+	background-color: #35232c;
+}
+#git{
+	background-color: #7b7c74;
+}
+
+
+
+
