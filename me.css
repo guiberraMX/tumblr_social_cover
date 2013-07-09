@@ -724,9 +724,18 @@ a.tumbbuton{
 	display: inline-block;
 	
 }
- #contacto ul li {
+ #contacto ul {
+	list-style-type: none;
+	background-image: url(navi_bg.png);
+	height: 80px;
+	width: 663px;
+	margin: auto;
+ }
+
+ #contacto ul li{
  	display: inline-block;
  }
+
 
 
 
