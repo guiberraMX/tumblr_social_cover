@@ -235,9 +235,10 @@ input#keywords.text {
 #following-avatars img:hover {
 	border: 2px solid #fd469f;
 }
-#footer 
+#footer{
+	display: inline-block;
 
-}
+} 
 
 .footer_clear {
 	display: block;
