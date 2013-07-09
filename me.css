@@ -223,6 +223,7 @@ input#keywords.text {
 	position: fixed;
 	bottom: 0px;
 	width: 100%;
+	z-index: -1;
 }
 
 #buttons {
