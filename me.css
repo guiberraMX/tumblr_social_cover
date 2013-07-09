@@ -41,9 +41,9 @@
 }
 
 @font-face {
-	font-family: 'Stroke-Light';
-	src: url('fonts/Stroke-Light.eot');
-	src: local('☺'), url('fonts/Stroke-Light.woff') format('woff'), url('fonts/Stroke-Light.ttf') format('truetype'), url('fonts/Stroke-Light.svg') format('svg');
+	font-family: 'CODE Light';
+	src: url('fonts/CODE Light.eot');
+	src: local('☺'), url('fonts/CODE Light.woff') format('woff'), url('fonts/CODE Light.ttf') format('truetype'), url('fonts/CODE Light.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -108,7 +108,7 @@ div.holder {
 	letter-spacing:-4px;
 	width: 100%;
 	overflow: hidden;
-	font-family: "Stroke-Light";
+	font-family: "CODE Light";
 	font-size: 75px;
 	color: #fff;
 }
