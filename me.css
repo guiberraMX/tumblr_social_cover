@@ -130,6 +130,12 @@ div.holder {
 	height: 140px;
 
 }	
+
+.avatar {
+	border-radius: 50%;
+}
+
+
 #owner {
 	position: absolute;
 	border-radius: 50%;
