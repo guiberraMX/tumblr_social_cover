@@ -246,11 +246,11 @@ input#keywords.text {
 	font-family: "Carme";
 }
 #footer div.col2 {
-	display: block;
+	display: inline-block;
 	font-size: 12px;
 	font-family: "Carme";
 	line-height: 1.3em;
-	width: 430px;
+	width: 930px;
 	float: left;
 	padding: 25px;
 	color: #666;
