@@ -219,7 +219,7 @@ input#keywords.text {
 	display: block;
 	background-image: url(https://dl.dropboxusercontent.com/u/120471624/pw_maze_black_%402X.png);
 	background-repeat: repeat;
-	max-height: 20px;
+	max-height: 50px;
 	position: fixed;
 	bottom: 0px;
 	width: 100%;
@@ -720,12 +720,13 @@ a.tumbbuton{
 /* li de enlaces personales bottom */ 
 
 #contacto{
-	display: inline-block;
+	
 }
 
 #adn{
 	display: inline-block;
-	background-color: #fff;
+	background-image: url(https://dl.dropboxusercontent.com/u/120471624/logo%2Bicono.png);
+	
 }
 #5oo{
 	display: inline-block;
