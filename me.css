@@ -220,6 +220,9 @@ input#keywords.text {
 	background-image: url(https://dl.dropboxusercontent.com/u/120471624/pw_maze_black_%402X.png);
 	background-repeat: repeat;
 	max-height: 20px;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
 }
 
 #buttons {
