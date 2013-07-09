@@ -724,12 +724,15 @@ a.tumbbuton{
 }
 
 #adn{
+	display: inline-block;
 	background-color: #fff;
 }
 #5oo{
+	display: inline-block;
 	background-color: #35232c;
 }
 #git{
+	display: inline-block;
 	background-color: #7b7c74;
 }
 
