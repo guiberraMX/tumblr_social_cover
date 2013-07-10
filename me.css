@@ -727,15 +727,13 @@ a.tumbbuton{
 }
  #contacto ul {
 	list-style-type: none;
-	background-image: url(navi_bg.png);
-	height: 80px;
-	width: 663px;
-	margin: auto;
-	display: inline-block;
+  	text-align: center;
  }
 
- #contacto ul li{
- 	display: inline-block;
+ #contacto li{
+ 	display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
  }
 
 
