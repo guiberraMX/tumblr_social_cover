@@ -734,7 +734,8 @@ a.tumbbuton{
  #contacto li{
  	display: inline;
    text-align: center;
-   margin-left: 40px;
+   margin-left: 20px;
+   padding-left: 100px;
   
  }
 
