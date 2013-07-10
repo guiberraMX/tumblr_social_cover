@@ -723,7 +723,7 @@ a.tumbbuton{
 #contacto{
 
 	display: inline-block;
-	text-align: center;
+
 	
 }
  #contacto ul {
@@ -734,6 +734,7 @@ a.tumbbuton{
  #contacto li{
  	display: inline;
    text-align: center;
+   margin-left: 500px;
   
  }
 
