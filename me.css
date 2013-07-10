@@ -723,13 +723,14 @@ a.tumbbuton{
 #contacto{
 
 	display: inline-block;
+	margin-left: 100px;
 
 	
 }
  #contacto ul {
 	list-style-type: none;
   	text-align: center;
-  	margin-left: 800px;
+  	
  }
 
  #contacto li{
