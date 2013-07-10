@@ -731,6 +731,7 @@ a.tumbbuton{
 	height: 80px;
 	width: 663px;
 	margin: auto;
+	display: inline-block;
  }
 
  #contacto ul li{
