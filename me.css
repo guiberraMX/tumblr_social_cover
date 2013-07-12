@@ -497,7 +497,7 @@ div.quote-source {
 div.caption {
 	display: block;
 	padding: 25px;
-	font-size: 1em;
+	font-size: 1.5em;
 	line-height: 1.3em;
 	color: #999;
 	
@@ -536,10 +536,10 @@ div.text {
 	display: block;
 	padding: 25px;
 	padding-bottom: 50px;
-	font-size: 14px;
+	font-size: 1.5em;
 	line-height: 1.4em;
 	color: #999;
-		font-family: "Carme";
+	font-family: "Carme";
 }
 
 ul.tags {
