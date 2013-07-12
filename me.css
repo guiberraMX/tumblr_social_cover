@@ -529,6 +529,8 @@ div.caption.photo_cap {
 	padding-bottom: 55px;
 	border-top: 1px solid #111;
 	color: #fff;
+	font-family: "Bariol_Regular";
+	font-size: 1em;
 	z-index: 0;
 }
 div.text {
