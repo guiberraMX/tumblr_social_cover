@@ -327,12 +327,12 @@ input#keywords.text {
 .post .notes {
 	position: absolute;
 	
-	color: #ff3827;
-	font-size: 15px;
+	color: #000;
+	font-size: 12px;
 	
 	
 	font-family: "Carme";
-	text-shadow: 0px -1px 1px #000;
+	
 	text-align: center;
 
 	
