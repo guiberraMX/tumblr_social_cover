@@ -229,7 +229,7 @@ input#keywords.text {
 	text-align: center;
 	color:#8aad26;
 	font-size: 1em;
-	font-family:"Carme";
+	font-family:"Bariol_Regular";
 }
 
 #buttons {
@@ -338,7 +338,7 @@ input#keywords.text {
 	font-size: 14px;
 	
 	
-	font-family: "Carme";
+	font-family: "Bariol_Regular";
 	
 	text-align: center;
 
@@ -399,7 +399,7 @@ display: block;
 	font-size: 12px;
 	color: #000;
 	text-shadow: #fd5c56 0 1px 1px;
-	font-family: "Carme";
+	font-family: "Bariol_Regular";
 }
 
 h3.title {
@@ -432,7 +432,7 @@ div.chat_line {
 	padding-bottom: 5px;
 	padding-top: 5px;	
 	text-shadow: 0px -1px 1px #000;	
-	font-family: "Carme";	
+	font-family: "Bariol_Regular";	
 }
 div.chat_line.odd {
 	color: #999;
@@ -500,7 +500,7 @@ div.caption {
 	line-height: 1.3em;
 	color: #999;
 	
-	font-family: "Carme";
+	font-family: "Bariol_Regular";
 }
 div.caption.audio_cap {
 	background-color: #111;
@@ -538,7 +538,7 @@ div.text {
 	font-size: 1.3em;
 	line-height: 1.3em;
 	color: #181a16;
-	font-family: "Carme";
+	font-family: "Bariol_Regular";
 	text-align: justify;
 }
 
@@ -560,7 +560,7 @@ ul.tags li {
 	display: inline;
 	font-size: 0px;
 	padding-left: 3px;
-	font-family: "Carme";
+	font-family: "Bariol_Regular";
 }
 
 div.real_notes {
@@ -577,7 +577,7 @@ ol.notes {
 	display: block;
 	width: 500px;
 	font-size: 11px;
-	font-family: "Carme";	
+	font-family: "Bariol_Regular";	
 }
 ol.notes li {
 	display: block;
@@ -590,7 +590,7 @@ ol.notes li {
 	min-height: 22px;
 	text-shadow: 0px -1px 1px #000;	
 	color: #999;
-	font-family: "Carme";
+	font-family: "Bariol_Regular";
 }
 
 ol.notes li blockquote {
@@ -598,14 +598,14 @@ ol.notes li blockquote {
 	padding: 0;
 	margin-top: 5px;
 	margin-left: 40px;
-	font-family: "Carme";
+	font-family: "Bariol_Regular";
 	font-weight: normal;
 }
 ol.notes li blockquote a {
 	color: #777;
 	font-weight: normal;
 	font-size: 13px;
-	font-family: "Carme";  
+	font-family: "Bariol_Regular";  
 }
 ol.notes li blockquote a:hover {
 	color: #d33921;
