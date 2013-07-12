@@ -226,6 +226,13 @@ input#keywords.text {
 	width: 100%;
 }
 
+#footer a {
+
+	text-align: right;
+	font-size: 1em
+	font-family:"Carme";
+}
+
 #buttons {
 	display: block;
 	margin-top: 20px;
