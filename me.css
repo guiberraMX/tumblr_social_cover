@@ -234,8 +234,8 @@ input#keywords.text {
 	
 	color:#636363;
 	font-family:"Bariol_Regular";
-	margin-top: 7px;
-	margin-bottom: 8px;
+	padding-bottom: 10px;
+	padding-top:5px;
 }
 
 #buttons {
