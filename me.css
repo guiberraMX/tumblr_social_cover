@@ -450,7 +450,7 @@ div.chat_line.odd strong {
 }
 .audio_player {
 	display: block;
-	background-color: #000;
+	
 	list-style-position: outside;
 }
 
