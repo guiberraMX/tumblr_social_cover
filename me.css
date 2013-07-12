@@ -539,6 +539,7 @@ div.text {
 	line-height: 1.3em;
 	color: #999;
 	font-family: "Carme";
+	text-align: justify;
 }
 
 ul.tags {
