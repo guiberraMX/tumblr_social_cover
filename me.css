@@ -223,16 +223,16 @@ input#keywords.text {
 	position: fixed;
 	bottom: 0px;
 	width: 100%;
-	text-align: center;
-	position: center;
+	text-align: right;
+	position: right;
+	font-size: 1.5em;
 }
 
 #footer a {
 	
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color:#8aad26;
-	font-size: 1em;
+	color:#636363;
 	font-family:"Bariol_Regular";
 }
 
