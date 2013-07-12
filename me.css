@@ -97,9 +97,10 @@ div.holder {
 	display: block;
 	padding-left: 0px;
 	margin-right: 0px;
-	height: 300px;
+	height: 250px;
 	width: 100%;
-	background: url(https://dl.dropboxusercontent.com/u/120471624/akaciaa.JPG) repeat center;
+	background: url(https://dl.dropboxusercontent.com/u/120471624/akaciaa.JPG) center;
+	background-size: 100% 100%;
 	position: fixed;
 	top:0px;
 	z-index: 1;
