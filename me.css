@@ -226,16 +226,16 @@ input#keywords.text {
 	text-align: right;
 	position: right;
 	font-size: 1em;
-	margin-top: 7px;
-	margin-bottom: 8px;
+	
 }
 
 #footer a {
 	
-	padding-top: 10px;
-	padding-bottom: 10px;
+	
 	color:#636363;
 	font-family:"Bariol_Regular";
+	margin-top: 7px;
+	margin-bottom: 8px;
 }
 
 #buttons {
