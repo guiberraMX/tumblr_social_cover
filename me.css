@@ -225,7 +225,7 @@ input#keywords.text {
 	width: 100%;
 	text-align: right;
 	position: right;
-	font-size: 1em;
+	font-size: 0.8em;
 	
 }
 
@@ -235,7 +235,8 @@ input#keywords.text {
 	color:#636363;
 	font-family:"Bariol_Regular";
 	padding-bottom: 10px;
-	padding-top:5px;
+	padding-top:10px;
+	padding-right: 20px;
 }
 
 #buttons {
