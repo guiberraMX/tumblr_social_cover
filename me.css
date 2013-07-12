@@ -590,7 +590,7 @@ ol.notes li {
 	background-repeat: repeat-x;
 	position: relative;
 	min-height: 22px;
-	text-shadow: 0px -1px 1px #000;	
+	
 	color: #999;
 	font-family: "Bariol_Regular";
 }
