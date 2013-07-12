@@ -450,7 +450,7 @@ div.chat_line.odd strong {
 }
 .audio_player {
 	display: block;
-	
+	background-color: #000;
 	list-style-position: outside;
 }
 
@@ -503,7 +503,7 @@ div.caption {
 	font-family: "Bariol_Regular";
 }
 div.caption.audio_cap {
-	background-color: #111;
+	
 }
 
 div.caption.photoset_cap,
