@@ -227,6 +227,7 @@ input#keywords.text {
 }
 
 #footer a {
+	position: center;
 	text-align: center;
 	color:#8aad26;
 	font-size: 1em;
