@@ -226,7 +226,7 @@ input#keywords.text {
 }
 
 #footer a {
-	text-align: center;
+	position: center;
 	color:#8aad26;
 	font-size: 1em;
 	font-family:"Bariol_Regular";
@@ -431,7 +431,7 @@ div.chat_line {
 	display: block;	
 	padding-bottom: 5px;
 	padding-top: 5px;	
-	text-shadow: 0px -1px 1px #000;	
+	
 	font-family: "Bariol_Regular";	
 }
 div.chat_line.odd {
@@ -481,7 +481,7 @@ div.quote {
 	padding: 20px;
 	color: #3c3c3c;
 	text-shadow: 0px -1px 1px #000;
-	font: 40px 'Intro';
+	font: 40px 'Bariol_Regular';
 }
 div.quote-source {
 	display: block;
