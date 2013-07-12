@@ -366,6 +366,7 @@ display: block;
 	width: 70px;
 	height: 28px;
 	padding-top: 20px;
+	margin-top:20px;
 
 }
 .post.even .notes {
@@ -378,7 +379,7 @@ display: block;
 	top: 300px;
 	width: 70px;
 	height: 28px;
-	padding-top: 50px;
+	padding-top: 20px;
 	margin-top:20px;
 	
 }
