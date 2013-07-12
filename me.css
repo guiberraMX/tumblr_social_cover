@@ -69,8 +69,7 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #3392fc;
-	font-weight: bold;
+	color: #8aad26;
 	font-family: "Carme";
 	font-size: 1.5em;
 }
@@ -227,7 +226,7 @@ input#keywords.text {
 }
 
 #footer a {
-	margin-left: 600px;
+	text-align: center;
 	color:#8aad26;
 	font-size: 1em;
 	font-family:"Carme";
