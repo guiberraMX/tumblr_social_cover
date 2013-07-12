@@ -710,11 +710,11 @@ display:inline-block; text-indent:-9999px; overflow:hidden; width:70%px; height:
 .tumbbuton{
 
 	font-family: "tumb";
-	font-style: bold;
+	border-style: solid;
 	font-size: 1.1em;
 	background-color: #d2d5eb;
 	border-color: 314355;
-	border-width: 1px;
+	border-width: 2px;
 	border-radius: 5px;
 	width: 100%;
 
@@ -724,7 +724,7 @@ display:inline-block; text-indent:-9999px; overflow:hidden; width:70%px; height:
 }
 
 a.tumbbuton{
-	color: #365069;
+	color: #000;
 	padding: 1px 5px 1px 5px;
 
 }
