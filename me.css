@@ -226,7 +226,8 @@ input#keywords.text {
 }
 
 #footer a {
-	position: center;
+	text-align: right;
+	padding: 10px;
 	color:#8aad26;
 	font-size: 1em;
 	font-family:"Bariol_Regular";
