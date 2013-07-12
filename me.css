@@ -227,8 +227,7 @@ input#keywords.text {
 }
 
 #footer a {
-	position: center;
-	text-align: center;
+	margin-left: 600px;
 	color:#8aad26;
 	font-size: 1em;
 	font-family:"Carme";
