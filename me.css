@@ -710,8 +710,9 @@ display:inline-block; text-indent:-9999px; overflow:hidden; width:70%px; height:
 .tumbbuton{
 
 	font-family: "tumb";
+	font-style: bold;
 	font-size: 1.1em;
-	background-color: #6388ac;
+	background-color: #d2d5eb;
 	border-color: 314355;
 	border-width: 1px;
 	border-radius: 5px;
