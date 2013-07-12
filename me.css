@@ -359,10 +359,12 @@ display: block;
 	left: 25px;
 	background-color: #fff;
 	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
 	top: 300px;
 	width: 70px;
 	height: 28px;
-	padding-top: 5px;
+	padding-top: 0px;
 
 	
 
@@ -374,7 +376,7 @@ display: block;
 	border-radius: 5px;
 	border-color: #b2b;
 	border-width: 4px;
-	top: 300px;
+	top: 330px;
 	width: 70px;
 	height: 28px;
 	padding-top: 5px;
