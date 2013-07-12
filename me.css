@@ -225,7 +225,9 @@ input#keywords.text {
 	width: 100%;
 	text-align: right;
 	position: right;
-	font-size: 1.5em;
+	font-size: 1em;
+	margin-top: 7px;
+	margin-bottom: 8px;
 }
 
 #footer a {
