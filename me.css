@@ -227,9 +227,9 @@ input#keywords.text {
 }
 
 #footer a {
-
-	text-align: right;
-	font-size: 1em
+	text-align: center;
+	color:#8aad26;
+	font-size: 1em;
 	font-family:"Carme";
 }
 
@@ -751,8 +751,5 @@ a.tumbbuton{
  }
 
 
-#credito a{
-	text-align: center;
-}
 
 
